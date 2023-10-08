@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Checkpoint 2 - 2SEM.props" />
+</Project>
